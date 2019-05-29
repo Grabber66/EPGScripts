@@ -15,7 +15,7 @@ binmode (STDERR,"encoding(utf8)");
 #####################################
 
 #Path to php helper-scripts i.E Path to "age.php"
-my $path= "imdb" ;
+my $path= "/home/docker/webgrab/new_imdbmapper" ;
 
 # Max Cachetime in Days
 my $cachetime = 5; 
