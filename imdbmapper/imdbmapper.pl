@@ -19,7 +19,7 @@ binmode (STDERR,"encoding(utf8)");
 #####################################
 
 #Path to php helper-scripts i.E Path to "age.php"
-my $path= "/home/takealug/EPG/takealug/imdbmapper" ;                                  
+my $path= "/home/docker/webgrab/imdbmapper" ;                                  
 
 # Max Cachetime in Days
 my $cachetime = 5; 
